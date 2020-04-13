@@ -595,4 +595,7 @@
     <!-- whether the always on display mode is enabled by default. -->
     <bool name="config_dozeAlwaysOnEnabled">false</bool>
 
+    <!-- Whether the device has hw keys -->
+    <bool name="config_canShowNavbarToggle">true</bool>
+
 </resources>
